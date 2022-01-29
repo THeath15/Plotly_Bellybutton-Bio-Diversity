@@ -10,9 +10,10 @@ Roza is a biological researcher who is instested in finding bacterial species th
 Resources:
   - JavaScript
   - Visual Studio
+  - HTML AND CSS
   - Plotly.js
   - Anaconda Phytondata Environment to run web pages on http.server
 
 
-Deployed  Dashboard /Active webpage below at Github :
+Deployed  Dashboard /Active webpage below at Github : https://theath15.github.io/Plotly_Bellybutton-Bio-Diversity/
 ![image](https://user-images.githubusercontent.com/92903447/151672182-21df5c6f-3821-4073-ba16-3fded9389720.png)
