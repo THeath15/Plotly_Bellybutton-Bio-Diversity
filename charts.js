@@ -171,7 +171,7 @@ function init() {
       }];
       // 5. Create the layout for the gauge chart.
       var gaugeLayout = { 
-        width:500, height: 400, margin: { t: 20, b: 0 },
+        width:450, height: 300, margin: { t: 20, b: 0 },
         font: { color: "white"},
         paper_bgcolor : "#1f77b4"
         
