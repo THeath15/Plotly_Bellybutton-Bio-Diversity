@@ -137,7 +137,7 @@ function init() {
         hovermode: "closest",
         xaxis: { title: "OTU ID" },
         margin: { t: 30},
-        background: "powderblue"
+        paper_bgcolor : "powderblue"
 
       };  
       // 3. Use Plotly to plot the data with the layout.
