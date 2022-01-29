@@ -136,7 +136,9 @@ function init() {
         margin: { t: 0 },
         hovermode: "closest",
         xaxis: { title: "OTU ID" },
-        margin: { t: 30} 
+        margin: { t: 30},
+        background: "powderblue"
+
       };  
       // 3. Use Plotly to plot the data with the layout.
       Plotly.newPlot("bubble", bubbleData, bubbleLayout);
@@ -170,10 +172,13 @@ function init() {
       // 5. Create the layout for the gauge chart.
       var gaugeLayout = { 
         width:500, height: 400, margin: { t: 20, b: 0 },
-        font: { color: "black"}
+        font: { color: "white"},
+        paper_bgcolor : "#1f77b4"
+        
       };
+
       // 6. Use Plotly to plot the gauge data and layout.
-      Plotly.newPlot("gauge", gaugeData, gaugeLayout);
+      Plotly.newPlot("gauge", gaugeData, gaugeLayout );
     });
   }
   
