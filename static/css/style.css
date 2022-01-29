@@ -1,0 +1,16 @@
+ 
+
+.jumbotron .h1, .jumbotron h1 {
+  color: rgb(252, 252, 252);
+  }
+  /* p { color: rgb(252, 252, 252); } */
+
+  .jumbotron .h2, .jumbotron h2 {
+    color: rgb(252, 252, 252);
+    }
+ 
+ .jumbotron {
+    background-image: url("../images/cultures.png");
+    background-size: 80% 100%;
+    text-align: center;
+  }
